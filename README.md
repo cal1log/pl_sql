@@ -12,8 +12,7 @@
 
 # change nls lang to work on oracle
 
-[nls_lang_change](https://stackoverflow.com/questions/17064314/setting-nls-lang-only-for-sqlplus/
-36339925)
+[nls_lang_change](https://stackoverflow.com/questions/17064314/setting-nls-lang-only-for-sqlplus/36339925)
 
 # lessons
 
